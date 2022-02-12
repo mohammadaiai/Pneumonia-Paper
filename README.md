@@ -12,7 +12,7 @@ This paper is about the detection of pneumonia in Chest X-Ray (CXR) images using
 
 ## Support
 
-For support, email mohammad.deeplearning@gmail.com.
+For support, email yaseliani.m@in.iut.ac.ir.
 
 
 
@@ -22,7 +22,7 @@ For support, email mohammad.deeplearning@gmail.com.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at mohammad.deeplearning@gmail.com
+If you have any feedback, please reach out to us at yaseliani.m@in.iut.ac.ir.
 
 
 

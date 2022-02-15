@@ -10,9 +10,9 @@ This paper is about the detection of pneumonia in Chest X-Ray (CXR) images using
 - [@Mohammad Yaseliani](https://www.github.com/mohammadaiai)
 
 
-## Support
+%## Support
 
-For support, email yaseliani.m@in.iut.ac.ir.
+%For support, email yaseliani.m@in.iut.ac.ir.
 
 
 
@@ -20,9 +20,9 @@ For support, email yaseliani.m@in.iut.ac.ir.
     
 
 
-## Feedback
+%## Feedback
 
-If you have any feedback, please reach out to us at yaseliani.m@in.iut.ac.ir.
+%If you have any feedback, please reach out to us at yaseliani.m@in.iut.ac.ir.
 
 
 

@@ -5,7 +5,7 @@ This project is about the detection of pneumonia in Chest X-Ray (CXR) images usi
 
 
 
-## Authors
+## Author
 
 - [@Mohammad Yaseliani](https://www.github.com/mohammadaiai)
 

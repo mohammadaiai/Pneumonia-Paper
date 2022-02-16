@@ -7,7 +7,7 @@ This project is about the detection of pneumonia in Chest X-Ray (CXR) images usi
 
 ## Developer
 
-- [@Mohammad Yaseliani](https://www.github.com/mohammadaiai)
+- [@Mohammad Yaseliani](https://www.github.com/mohammadaiai)\n
 For support, email mohammad.deeplearning@gmail.com.
 
 

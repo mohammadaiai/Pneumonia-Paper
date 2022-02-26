@@ -10,9 +10,6 @@ This project is about the detection of pneumonia in Chest X-Ray (CXR) images usi
 
 Apache Version 2.0
 
-## Support
-For support, email mohammad.deeplearning@gmail.com.
-
 
 
 
